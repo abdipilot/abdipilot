@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdipilot
-- 👀 I’m interested in Blockchain applcations
+- 👀 I’m interested in Blockchain applications
 - 🌱 I’m currently learning on anything to do with Metaverse & Web3
-- 💞️ I’m looking to collaborate on projects on Blockchain, mainy Ethereum applications
+- 💞️ I’m looking for to collaborate on projects about DAPP, NFTs and Ethereum applications
 - 📫 How to reach me abdipilot@gmail.com
 
 <!---
