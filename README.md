@@ -53,7 +53,6 @@ Docker • Nginx • Linux • WSL2 • GitHub Actions
 Databases:
 PostgreSQL • MySQL • SQLite • Redis
 
-📊 GitHub Stats
-<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=abdipilot&show_icons=true&theme=radical&count_private=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdipilot&layout=compact&theme=radical" /> </p>
+
 🌐 Connect With Me
 <p align="left"> <a href="https://macalin.tech" target="_blank">🌍 macalin.tech</a> </p>
